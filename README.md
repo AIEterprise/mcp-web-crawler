@@ -43,3 +43,5 @@ In your MCP client configuration (e.g., `mcp.json` or `.claude_code/config.json`
 
 If your editor natively supports Remote SSE MCP Servers, just provide the endpoint:
 **SSE Endpoint**: `https://<your-vercel-domain>.vercel.app/api/mcp`
+
+[![M8ven Verified](https://m8ven.ai/badge/mcp/aieterprise-mcp-web-crawler-cikkzi?variant=verified&v=1a59e8e1871b1febd1e81621957c8e4f)](https://m8ven.ai/mcp/aieterprise-mcp-web-crawler-cikkzi?s=readme)
